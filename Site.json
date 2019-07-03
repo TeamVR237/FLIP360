@@ -1,0 +1,63 @@
+
+[{
+        "title": "Yaounde : Monument de la reunification",
+        "image": "https://github.com/TeamVR237/FLIP360/tree/master/images/monument.jpg",
+        "price": "XAF 500"
+    },
+{
+        "title": "Chutes d'Ekom Nkam ",
+        "image": "https://github.com/TeamVR237/FLIP360/tree/master/images/Cameroon2.jpg",
+        "price": "XAF 730"
+    },
+    {
+        "title": "Grand Nord: Pic du Kapsiki",
+        "image": "https://github.com/TeamVR237/FLIP360/tree/master/images/Kapsiki.jpg",
+        "price": "XAF 810"
+    },
+    {
+        "title": "Douala: Statue de la nouvelle liberté",
+        "image": "https://github.com/TeamVR237/FLIP360/tree/master/images/new_liberty.jpg",
+        "price": "XAF 800"
+    },
+    {
+        "title": "Kribi: Les Chutes de la Lobé",
+        "image": "https://github.com/TeamVR237/FLIP360/tree/master/images/kribi.jpg",
+        "price": "XAF 670"
+    },
+    {
+        "title": "Danse Culturelle Bakwa",
+        "image": "https://github.com/TeamVR237/FLIP360/tree/master/images/danse.jpg",
+        "price": "XAF 510"
+    },
+    {
+        "title": "Est: Petit village Baka",
+        "image": "https://github.com/TeamVR237/FLIP360/tree/master/images/roundeyes.jpg",
+        "price": "XAF 410"
+    },
+    {
+        "title": "Massif Montagneux: Stoneland",
+        "image": "https://github.com/TeamVR237/FLIP360/tree/master/images/stoneland.jpg",
+        "price": "XAF 620"
+    },
+    {
+        "title": "08 Mars: Au coeur de la célébration",
+        "image": "https://github.com/TeamVR237/FLIP360/tree/master/images/women_day.jpg",
+        "price": "XAF 320"
+    },
+    {
+        "title": "Yaounde: Petit tour de ville?",
+        "image": "https://github.com/TeamVR237/FLIP360/tree/master/images/yaounde_centrale.jpg",
+        "price": "Gratuit"
+    },
+    {
+        "title": "Dschang: Musée de la civilisation",
+        "image": "https://github.com/TeamVR237/FLIP360/tree/master/images/Pont_du_Plaisir.jpg",
+        "price": "XAF 600"
+    },
+    {
+        "title": "North west: Mbengwi Cosplay",
+        "image": "https://github.com/TeamVR237/FLIP360/tree/master/images/northwest.jpg",
+        "price": "XAF 690"
+    }
+    
+    ]
